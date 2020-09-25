@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86929f68-c680-4f8e-9f32-f1df153496f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ilp/src/app/components/Instructor/Instructor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ilp/src/app/components/Terminal/Terminal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ilp/src/app/components/Terminal/Terminal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/app/api/auth/[...auth].ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/app/pages/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/db/migrations/20200923163846-initial-migration/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/db/migrations/20200923163846-initial-migration/schema.prisma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/db/migrations/20200923163846-initial-migration/steps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/db/migrations/20200924130335-learning-platform-v0-1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/db/migrations/20200924130335-learning-platform-v0-1/schema.prisma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/db/migrations/20200924130335-learning-platform-v0-1/steps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-platform/db/migrations/migrate.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ilp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ilp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ilp/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/ilp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive-platform/app/auth/auth-utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interactive-platform/app/auth/auth-utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive-platform/app/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/interactive-platform/app/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive-platform/app/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/interactive-platform/app/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive-platform/db/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/interactive-platform/db/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive-platform/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/interactive-platform/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive-platform/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/interactive-platform/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ilp" />
+  </component>
+  <component name="ProjectId" id="1hwt0Pr9aunUgGhp314KNg8geHV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/feathers-ilp/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/feathers-ilp/app/ilp/src/app/components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86929f68-c680-4f8e-9f32-f1df153496f0" name="Default Changelist" comment="" />
+      <created>1600933758658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600933758658</updated>
+      <workItem from="1600933760633" duration="14309000" />
+      <workItem from="1601017115046" duration="2177000" />
+      <workItem from="1601026838085" duration="3716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="707" y="330" width="495" height="417" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600933861903">
+      <screen x="0" y="63" width="1920" height="1017" />
+    </state>
+    <state x="707" y="330" width="495" height="417" key="#com.intellij.fileTypes.FileTypeChooser/1920.36.1920.1080/0.63.1920.1017/3840.0.1920.1080@0.63.1920.1017" timestamp="1600933861903" />
+    <state x="594" y="167" width="763" height="762" key="FileChooserDialogImpl" timestamp="1601019362160">
+      <screen x="0" y="63" width="1920" height="1017" />
+    </state>
+    <state x="594" y="167" width="763" height="762" key="FileChooserDialogImpl/1920.36.1920.1080/0.63.1920.1017/3840.0.1920.1080@0.63.1920.1017" timestamp="1601019362160" />
+    <state width="237" height="541" key="HiddenNamespacesPopup" timestamp="1600933821193">
+      <screen x="0" y="63" width="1920" height="1017" />
+    </state>
+    <state width="237" height="541" key="HiddenNamespacesPopup/1920.36.1920.1080/0.63.1920.1017/3840.0.1920.1080@0.63.1920.1017" timestamp="1600933821193" />
+    <state x="602" y="157" width="705" height="763" key="NewModule_or_Project.wizard" timestamp="1601019380322">
+      <screen x="0" y="63" width="1920" height="1017" />
+    </state>
+    <state x="602" y="157" width="705" height="763" key="NewModule_or_Project.wizard/1920.36.1920.1080/0.63.1920.1017/3840.0.1920.1080@0.63.1920.1017" timestamp="1601019380322" />
+    <state x="653" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1601017835462">
+      <screen x="0" y="63" width="1920" height="1017" />
+    </state>
+    <state x="653" y="366" key="com.intellij.ide.util.TipDialog/1920.36.1920.1080/0.63.1920.1017/3840.0.1920.1080@0.63.1920.1017" timestamp="1601017835462" />
+    <state x="764" y="229" width="382" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600934028949">
+      <screen x="0" y="63" width="1920" height="1017" />
+    </state>
+    <state x="764" y="229" width="382" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.36.1920.1080/0.63.1920.1017/3840.0.1920.1080@0.63.1920.1017" timestamp="1600934028949" />
+  </component>
+</project>
